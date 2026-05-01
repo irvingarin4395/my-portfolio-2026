@@ -16,7 +16,7 @@ export const projects: Project[] = [
     title: "AI Answer Evaluator (SaaS Demo)",
     tech: ["React", "TypeScript", "Tailwind", "Node.js", "Express"],
     description:
-      "A full-stack SaaS-style application that simulates AI-powered answer evaluation with scoring, feedback generation, and performance tracking. Designed with a modern dashboard UI and persistent evaluation history.",
+      "A full-stack SaaS-style application that simulates AI-powered evaluation workflows using React, Node.js, and REST APIs. Features scoring, feedback generation, and real-time dashboard tracking.",
     impact:
       "Built end-to-end product with frontend, backend, and API integration demonstrating real-world SaaS architecture",
     link: "https://github.com/irvingarin4395/ai-answer-evaluator",
@@ -28,7 +28,7 @@ export const projects: Project[] = [
     title: "Lead Generation Platform (SaaS Demo)",
     tech: ["Laravel", "React", "Tailwind", "REST API"],
     description:
-      "A full-stack lead management dashboard that allows users to capture, track, and convert leads in real-time. Built with a clean SaaS-style interface, featuring metrics, conversion tracking, and persistent backend data.",
+      "A full-stack lead management system built with Laravel and React that simulates real-world marketing workflows. Includes lead capture, status tracking, conversion metrics, and REST API integration.",
     impact:
       "Demonstrates full-stack development with real CRUD operations, API integration, and business workflow simulation",
     link: "https://github.com/irvingarin4395/leadgen-platform-demo",

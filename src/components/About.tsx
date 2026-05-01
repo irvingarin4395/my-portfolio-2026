@@ -30,6 +30,9 @@ export default function About() {
             "Full-stack (Laravel + React)",
             "SEO & performance focused",
             "Remote + async collaboration",
+            "TypeScript",
+            "REST APIs", 
+            "MySQL + Posgres", "Tailwind CSS and Bootstrap CSS"
           ].map((item, i) => (
             <div
               key={i}
